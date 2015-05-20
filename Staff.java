@@ -11,6 +11,4 @@ public class Staff
 	{
 		return forename+","+surname+","+middlename+","+staffid+","+dateofbirth+","+password; //Returns the staff details
 	}
-
-	//hello
 }
